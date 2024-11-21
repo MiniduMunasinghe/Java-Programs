@@ -1,0 +1,1 @@
+This program simulates a pet management system where different types of pets, such as squirrels, parrots, and cats, have specific behaviors. Each pet can perform actions such as feeding, cleaning, and cuddling, which accumulate points. The program also handles exceptions for specific conditions, such as when a pet is "caught," resetting their points.
